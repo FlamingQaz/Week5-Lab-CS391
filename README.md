@@ -9,7 +9,7 @@
    Use the library manager to install this library. Find it by entering "heltec_esp32" in the library manager search box.
 
 2. Add ESP32 URL to settings
-   `https://espressif.github.io/arduino-esp32/package_esp32_index.json`
+   ```https://espressif.github.io/arduino-esp32/package_esp32_index.json```
 
    ![board_manager_url.png](https://github.com/ropg/heltec_esp32_lora_v3/blob/main/images/board_manager_url.png?raw=true)
    
