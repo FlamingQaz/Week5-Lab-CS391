@@ -27,9 +27,15 @@
    [![](https://github.com/ropg/heltec_esp32_lora_v3/raw/main/images/select_board.png)](https://github.com/ropg/heltec_esp32_lora_v3/blob/main/images/select_board.png)
 5. Run the specified .ino file in Arduino for the task and board, i.e Task 1/rx or Task 2/tx, for the Task 1 Receiver and Task 2 Transmitter respectively.
 
-## Libraries Used
+## Special Notes
+
+### Libraries Used
 
 - [ESP8266 and ESP32 OLED driver for SSD1306 displays *by Thingpulse, Fabrice Weinberg*](https://github.com/ThingPulse/esp8266-oled-ssd1306)
 - [Heltec ESP32 LoRa v3 *by Rop Gonggrijp*](https://github.com/ropg/Heltec_ESP32_LoRa_v3)
 - [HotButton *by Rop Gonggrijp*](https://github.com/ropg/HotButton)
 - [RadioLib *by Jan Gromes*](https://github.com/jgromes/RadioLib)
+
+### Baud Rate
+
+Use 115200 in the Serial Monitor
